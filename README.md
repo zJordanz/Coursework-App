@@ -1,1 +1,1 @@
-Coursework App
+CW
